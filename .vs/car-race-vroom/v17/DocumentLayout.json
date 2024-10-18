@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SURYANSHU MITTAL\\Desktop\\code\\car-race-vroom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA93F5C-B819-4034-D1D2-5263746E457C}|VehicleBehaviour.csproj|c:\\users\\suryanshu mittal\\desktop\\code\\car-race-vroom\\assets\\scripts\\resetcarposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA93F5C-B819-4034-D1D2-5263746E457C}|VehicleBehaviour.csproj|solutionrelative:assets\\scripts\\resetcarposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA93F5C-B819-4034-D1D2-5263746E457C}|VehicleBehaviour.csproj|C:\\Users\\SURYANSHU MITTAL\\Desktop\\code\\car-race-vroom\\assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA93F5C-B819-4034-D1D2-5263746E457C}|VehicleBehaviour.csproj|solutionrelative:assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA93F5C-B819-4034-D1D2-5263746E457C}|VehicleBehaviour.csproj|C:\\Users\\SURYANSHU MITTAL\\Desktop\\code\\car-race-vroom\\assets\\scripts\\trackcheckpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA93F5C-B819-4034-D1D2-5263746E457C}|VehicleBehaviour.csproj|solutionrelative:assets\\scripts\\trackcheckpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA93F5C-B819-4034-D1D2-5263746E457C}|VehicleBehaviour.csproj|C:\\Users\\SURYANSHU MITTAL\\Desktop\\code\\car-race-vroom\\assets\\scripts\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA93F5C-B819-4034-D1D2-5263746E457C}|VehicleBehaviour.csproj|solutionrelative:assets\\scripts\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResetCarPosition.cs",
+              "DocumentMoniker": "C:\\Users\\SURYANSHU MITTAL\\Desktop\\code\\car-race-vroom\\Assets\\Scripts\\ResetCarPosition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResetCarPosition.cs",
+              "ToolTip": "C:\\Users\\SURYANSHU MITTAL\\Desktop\\code\\car-race-vroom\\Assets\\Scripts\\ResetCarPosition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResetCarPosition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:25:59.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Checkpoint.cs",
+              "DocumentMoniker": "C:\\Users\\SURYANSHU MITTAL\\Desktop\\code\\car-race-vroom\\Assets\\Scripts\\Checkpoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Checkpoint.cs",
+              "ToolTip": "C:\\Users\\SURYANSHU MITTAL\\Desktop\\code\\car-race-vroom\\Assets\\Scripts\\Checkpoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Checkpoint.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:20:58.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\SURYANSHU MITTAL\\Desktop\\code\\car-race-vroom\\Assets\\Scripts\\Todo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Todo.cs",
+              "ToolTip": "C:\\Users\\SURYANSHU MITTAL\\Desktop\\code\\car-race-vroom\\Assets\\Scripts\\Todo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Todo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T19:09:59.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrackCheckpoints.cs",
+              "DocumentMoniker": "C:\\Users\\SURYANSHU MITTAL\\Desktop\\code\\car-race-vroom\\Assets\\Scripts\\TrackCheckpoints.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TrackCheckpoints.cs",
+              "ToolTip": "C:\\Users\\SURYANSHU MITTAL\\Desktop\\code\\car-race-vroom\\Assets\\Scripts\\TrackCheckpoints.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TrackCheckpoints.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:47:40.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
